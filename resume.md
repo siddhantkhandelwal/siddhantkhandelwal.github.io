@@ -1,8 +1,10 @@
 ---
 layout: page
+
 # title: 
+
 # subtitle: Why you'd want to go on a date with me
 ---
 <br>
 <br>
-<object data="/docs/Resume.pdf" height="800" width="800" type="application/pdf"></object>
+<iframe src="https://drive.google.com/file/d/1XblUdU9r5-WVSqsX-YQRTI6M8dqKP7iO/preview" width="100%" height="1000"></iframe>
