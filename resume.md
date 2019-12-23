@@ -7,4 +7,7 @@ layout: page
 ---
 <br>
 <br>
-<iframe src="https://drive.google.com/file/d/1XblUdU9r5-WVSqsX-YQRTI6M8dqKP7iO/preview" width="100%" height="1000"></iframe>
+<div class="resume-container">
+    <iframe src="https://drive.google.com/file/d/1XblUdU9r5-WVSqsX-YQRTI6M8dqKP7iO/preview"></iframe>
+</div>
+
