@@ -2,10 +2,10 @@
 # --- General options --- #
 
 # Name of website
-title: siddhant
+title: Siddhant Khandelwal
 
 # Short description of your site
-description: just another engineer
+description: Software Development & Competitive Programming
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
